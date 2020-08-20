@@ -6657,7 +6657,7 @@ exports = module.exports = __webpack_require__(/*! ../../../node_modules/css-loa
 
 
 // module
-exports.push([module.i, "\n.contact-list[data-v-0ee8d67a]{\n    flex : 2;\n    max-height: 600px;\n    overflow: scroll;\n    border-left: 1px solid gray;\n}\n.contact-list ul[data-v-0ee8d67a]{\n\n    list-style-type: none;\n    padding-left: 0;\n}\n.contact-list ul li[data-v-0ee8d67a]{\n\n    display: flex;\n    padding: 2px;\n    border-bottom: 1px solid gray;\n    position: relative;\n    height: 80px;\n    cursor: pointer;\n}\n.contact-list ul li.selected[data-v-0ee8d67a]{\n\n    background: #dedcdc;\n}\n.contact-list ul li .unread[data-v-0ee8d67a]{\n\n    background: #147762;\n    color: azure;\n    position: absolute;\n    right: 11px;\n    top: 20px;\n    display: flex;\n    font-weight: 700;\n    min-width: 20px;\n    justify-content: center;\n    align-items: center;\n    line-height: 20px;\n    font-size: 12px;\n    padding: 0 4px;\n    border-radius: 3px;\n}\n.contact-list ul li .avatar[data-v-0ee8d67a]{\n\n    flex: 1;\n    display: flex;\n    align-items: center;\n}\n.contact-list ul li .avatar img[data-v-0ee8d67a]{\n\n   width: 35px;\n   border-radius: 50%;\n   margin: 0 auto;\n}\n.contact-list ul li .contact[data-v-0ee8d67a]{\n\n    flex: 3;\n    font-size: 10px;\n    overflow: hidden;\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n}\n.contact-list ul li .contact p[data-v-0ee8d67a]{\n\n  margin: 0;\n}\n.contact-list ul li .contact p.name[data-v-0ee8d67a]{\n\n    font-weight: bold;\n}\n\n    \n", ""]);
+exports.push([module.i, "\n.contact-list[data-v-0ee8d67a]{\n    flex : 2;\n    max-height: 600px;\n    overflow: scroll;\n    border-left: 1px solid gray;\n}\n.contact-list ul[data-v-0ee8d67a]{\n\n    list-style-type: none;\n    padding-left: 0;\n}\n.contact-list ul li[data-v-0ee8d67a]{\n\n    display: flex;\n    padding: 2px;\n    border-bottom: 1px solid gray;\n    position: relative;\n    height: 80px;\n    cursor: pointer;\n}\n.contact-list ul li.selected[data-v-0ee8d67a]{\n\n    background: #dedcdc;\n}\n.contact-list ul li .unread[data-v-0ee8d67a]{\n\n    background: #147762;\n    color: azure;\n    position: absolute;\n    right: 11px;\n    top: 20px;\n    display: flex;\n    font-weight: 700;\n    min-width: 20px;\n    justify-content: center;\n    align-items: center;\n    line-height: 20px;\n    font-size: 12px;\n    padding: 0 4px;\n    border-radius: 3px;\n}\n.contact-list ul li .avatar[data-v-0ee8d67a]{\n\n    flex: 1;\n    display: flex;\n    align-items: center;\n}\n.contact-list ul li .avatar img[data-v-0ee8d67a]{\n\n   width: 50px;\n   height: 50px;\n   border-radius: 50%;\n   margin: 0 auto;\n}\n.contact-list ul li .contact[data-v-0ee8d67a]{\n\n    flex: 3;\n    font-size: 10px;\n    overflow: hidden;\n    display: flex;\n    flex-direction: column;\n    justify-content: center;\n}\n.contact-list ul li .contact p[data-v-0ee8d67a]{\n\n  margin: 0;\n}\n.contact-list ul li .contact p.name[data-v-0ee8d67a]{\n\n    font-weight: bold;\n}\n\n\n", ""]);
 
 // exports
 
@@ -57536,8 +57536,8 @@ __webpack_require__.r(__webpack_exports__);
 /*! no static exports found */
 /***/ (function(module, exports, __webpack_require__) {
 
-__webpack_require__(/*! C:\Users\1styrGroupA\Documents\lorem\Laravel\APP\chatapp\resources\js\app.js */"./resources/js/app.js");
-module.exports = __webpack_require__(/*! C:\Users\1styrGroupA\Documents\lorem\Laravel\APP\chatapp\resources\sass\app.scss */"./resources/sass/app.scss");
+__webpack_require__(/*! D:\lorem\Laravel\practice\laravel-vue-chat\resources\js\app.js */"./resources/js/app.js");
+module.exports = __webpack_require__(/*! D:\lorem\Laravel\practice\laravel-vue-chat\resources\sass\app.scss */"./resources/sass/app.scss");
 
 
 /***/ })

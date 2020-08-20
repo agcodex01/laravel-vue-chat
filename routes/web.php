@@ -20,6 +20,8 @@ Route::get('/', function () {
 Auth::routes();
 
 Route::get('/home', 'HomeController@index')->name('home');
+Route::get('home/user/{user}','HomeController@profile');
+Route::put('home/user/{user}','HomeController@update');
 Route::get('/contacts','ContactsController@index');
 Route::get('conversation/{id}','ContactsController@getMessagesFor');
 Route::post('conversation/send','ContactsController@send');

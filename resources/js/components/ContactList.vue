@@ -45,7 +45,7 @@ export default {
             }]).reverse();
         }
     }
-    
+
 }
 </script>
 
@@ -56,8 +56,8 @@ export default {
         overflow: scroll;
         border-left: 1px solid gray;
     }
-        
-    
+
+
     .contact-list ul{
 
         list-style-type: none;
@@ -104,7 +104,8 @@ export default {
     }
     .contact-list ul li .avatar img{
 
-       width: 35px;
+       width: 50px;
+       height: 50px;
        border-radius: 50%;
        margin: 0 auto;
     }
@@ -127,5 +128,5 @@ export default {
         font-weight: bold;
     }
 
-        
+
 </style>
